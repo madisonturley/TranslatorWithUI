@@ -31,7 +31,7 @@ public class UI extends Application {
     }
 
     private void configure(Stage stage){
-        stage.setTitle("Transloator");
+        stage.setTitle("Translator");
         stage.setScene(new Scene(createRoot()));
         stage.sizeToScene();
         stage.show();
